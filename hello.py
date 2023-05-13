@@ -1,3 +1,3 @@
-for item in range(2,5):
-    print("Imad Ali")
- 
+name = input("What is Your name")
+
+print(f"Hi! {name} how are you bay")
